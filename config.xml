@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.mycompany.colorrun" version="1.2.0.0">
 
 	<name>Color Run</name>
-	<description>This is a game for testing your eyes response</description>
+	<description>This is a game that will test your eye response</description>
 	<author email="ashura.shinji@gmail.com">Arya</author>
 
 	<icon src="icon-128.png" width="128" height="128" />
